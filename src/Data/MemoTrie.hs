@@ -41,9 +41,6 @@
 -- 
 -- see @examples/Generic.hs@, which can be run with: 
 -- 
--- @
--- cabal configure -fexamples && cabal run generic
--- @ 
 -- 
 -- 
 ----------------------------------------------------------------------
